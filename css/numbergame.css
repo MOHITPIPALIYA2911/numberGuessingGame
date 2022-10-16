@@ -1,0 +1,26 @@
+h1 {
+    color :rgb(0, 0, 0)
+}
+
+* {
+    background-color:rgb(244, 255, 213);
+}
+
+#btn{
+    font-size: medium;
+    padding : 4;
+    color : rgb(32, 9, 158)
+}
+#btn:hover{
+    font-size: medium;
+    
+    color :rgb(0, 0, 0)
+}
+.title{
+    color :rgb(34, 36, 165)
+}
+
+#input{
+    padding : 4;
+    font-size: medium;
+}
